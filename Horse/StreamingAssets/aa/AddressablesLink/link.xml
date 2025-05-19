@@ -2,6 +2,7 @@
   <assembly fullname="Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
     <type fullname="AudioComponent" preserve="all" />
     <type fullname="AutoSpeed" preserve="all" />
+    <type fullname="CommentData" preserve="all" />
     <type fullname="FormattedTextComponent" preserve="all" />
     <type fullname="Gameplay.PlayerController" preserve="all" />
     <type fullname="IsVisibleComponent" preserve="all" />
@@ -9,6 +10,7 @@
     <type fullname="SkillDetail" preserve="all" />
     <type fullname="UIBackground" preserve="all" />
     <type fullname="UIButtonComponent" preserve="all" />
+    <type fullname="UICommentRacingHorse" preserve="all" />
     <type fullname="UIEndRaceHorseResult" preserve="all" />
     <type fullname="UIEndRaceResultItem" preserve="all" />
     <type fullname="UIEndRaceResultListItem" preserve="all" />
@@ -32,6 +34,7 @@
     <type fullname="UIToggleComponent" preserve="all" />
     <type fullname=".AudioComponent/MusicTrack" preserve="nothing" serialized="true" />
     <type fullname=".AudioComponent/Sound" preserve="nothing" serialized="true" />
+    <type fullname=".CommentDataItem" preserve="nothing" serialized="true" />
     <type fullname=".SkillDetailItem" preserve="nothing" serialized="true" />
   </assembly>
   <assembly fullname="Unity.Addressables, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null" preserve="all">
