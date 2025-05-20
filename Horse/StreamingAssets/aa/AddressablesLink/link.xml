@@ -1,7 +1,6 @@
 <linker>
   <assembly fullname="Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
     <type fullname="AudioComponent" preserve="all" />
-    <type fullname="AutoSpeed" preserve="all" />
     <type fullname="CommentData" preserve="all" />
     <type fullname="FormattedTextComponent" preserve="all" />
     <type fullname="Gameplay.PlayerController" preserve="all" />
