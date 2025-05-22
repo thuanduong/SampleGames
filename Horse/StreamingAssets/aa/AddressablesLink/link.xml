@@ -5,6 +5,7 @@
     <type fullname="FormattedTextComponent" preserve="all" />
     <type fullname="Gameplay.PlayerController" preserve="all" />
     <type fullname="IsVisibleComponent" preserve="all" />
+    <type fullname="RandomVFXActivator" preserve="all" />
     <type fullname="RawImageComponent" preserve="all" />
     <type fullname="SkillDetail" preserve="all" />
     <type fullname="UIBackground" preserve="all" />
@@ -26,6 +27,7 @@
     <type fullname="UIPopupError" preserve="all" />
     <type fullname="UIPopupMessage" preserve="all" />
     <type fullname="UIPopupYesNoMessage" preserve="all" />
+    <type fullname="UIPostRaceHorseIntroduce" preserve="all" />
     <type fullname="UIPostRaceHorseSelection" preserve="all" />
     <type fullname="UIPostRaceSkillSelection" preserve="all" />
     <type fullname="UIPostRaceStategySelection" preserve="all" />
