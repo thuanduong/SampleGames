@@ -25,7 +25,7 @@
     <script>
       const hideFullScreenButton = "";
 	  
-	  var dataFile = "/Horse.data";                                  
+	  var dataFile = "/WebGL_Build.data";                                  
       var c = document.createElement("canvas");                                 
       var gl = c.getContext("webgl");                                      
       var gl2 = c.getContext("webgl2");                                    
@@ -35,11 +35,11 @@
       }    
 	  
       const buildUrl = "Build";
-      const loaderUrl = buildUrl + "/Horse.loader.js";
+      const loaderUrl = buildUrl + "/WebGL_Build.loader.js";
       const config = {
-        dataUrl: buildUrl + "/Horse.data",
-        frameworkUrl: buildUrl + "/Horse.framework.js",
-        codeUrl: buildUrl + "/Horse.wasm",
+        dataUrl: buildUrl + "/WebGL_Build.data",
+        frameworkUrl: buildUrl + "/WebGL_Build.framework.js",
+        codeUrl: buildUrl + "/WebGL_Build.wasm",
         streamingAssetsUrl: "StreamingAssets",
         companyName: "DefaultCompany",
         productName: "Horse",
