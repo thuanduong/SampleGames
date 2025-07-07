@@ -48,6 +48,9 @@
     <type fullname="UIPrediction" preserve="all" />
     <type fullname="UIPredictionButton" preserve="all" />
     <type fullname="UIPredictionColumnList" preserve="all" />
+    <type fullname="UIPredictionHorseInfo" preserve="all" />
+    <type fullname="UIPredictionHorseItem" preserve="all" />
+    <type fullname="UIPredictionHorseListItem" preserve="all" />
     <type fullname="UIPredictionListButton" preserve="all" />
     <type fullname="UIPredictionMoney" preserve="all" />
     <type fullname="UIPredictionMoneyToggleList" preserve="all" />
