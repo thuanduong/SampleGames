@@ -7,6 +7,8 @@
     <type fullname="FormattedTextComponent" preserve="all" />
     <type fullname="FPSDisplay" preserve="all" />
     <type fullname="Gameplay.CameraController" preserve="all" />
+    <type fullname="Gameplay.CameraStory" preserve="all" />
+    <type fullname="Gameplay.CameraTrigger" preserve="all" />
     <type fullname="Gameplay.PlayerController" preserve="all" />
     <type fullname="Initialiser" preserve="all" />
     <type fullname="IsVisibleComponent" preserve="all" />
@@ -63,6 +65,7 @@
     <type fullname=".CommentDataItem" preserve="nothing" serialized="true" />
     <type fullname=".SkillDetailItem" preserve="nothing" serialized="true" />
     <type fullname=".TournamentDataItem" preserve="nothing" serialized="true" />
+    <type fullname="Gameplay.CameraRecord" preserve="nothing" serialized="true" />
     <type fullname=".ScreenSettings" preserve="nothing" serialized="true" />
     <type fullname="Gameplay.CinemachineCameraHandler" preserve="nothing" serialized="true" />
   </assembly>
@@ -80,6 +83,7 @@
     <type fullname="Unity.Cinemachine.CinemachineDeoccluder" preserve="all" />
     <type fullname="Unity.Cinemachine.CinemachineFollow" preserve="all" />
     <type fullname="Unity.Cinemachine.CinemachineHardLookAt" preserve="all" />
+    <type fullname="Unity.Cinemachine.CinemachinePositionComposer" preserve="all" />
     <type fullname="Unity.Cinemachine.CinemachineRotationComposer" preserve="all" />
     <type fullname="Unity.Cinemachine.CinemachineSplineDolly" preserve="all" />
     <type fullname="Unity.Cinemachine.CinemachineSplineDollyLookAtTargets" preserve="all" />
@@ -194,6 +198,10 @@
   <assembly fullname="UnityEngine.ParticleSystemModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
     <type fullname="UnityEngine.ParticleSystem" preserve="all" />
     <type fullname="UnityEngine.ParticleSystemRenderer" preserve="all" />
+  </assembly>
+  <assembly fullname="UnityEngine.PhysicsModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.BoxCollider" preserve="all" />
+    <type fullname="UnityEngine.Rigidbody" preserve="all" />
   </assembly>
   <assembly fullname="UnityEngine.TextRenderingModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
     <type fullname="UnityEngine.Font" preserve="all" />
