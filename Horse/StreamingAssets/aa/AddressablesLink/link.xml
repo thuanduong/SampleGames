@@ -86,7 +86,6 @@
     <type fullname="Unity.Cinemachine.CinemachinePositionComposer" preserve="all" />
     <type fullname="Unity.Cinemachine.CinemachineRotationComposer" preserve="all" />
     <type fullname="Unity.Cinemachine.CinemachineSplineDolly" preserve="all" />
-    <type fullname="Unity.Cinemachine.CinemachineSplineDollyLookAtTargets" preserve="all" />
     <type fullname="Unity.Cinemachine.CinemachineSplineSmoother" preserve="all" />
     <type fullname="Unity.Cinemachine.CinemachineBlendDefinition" preserve="nothing" serialized="true" />
     <type fullname="Unity.Cinemachine.CinemachineBlenderSettings/CustomBlend" preserve="nothing" serialized="true" />
@@ -97,7 +96,6 @@
     <type fullname="Unity.Cinemachine.CinemachineDeoccluder/ObstacleAvoidance/FollowTargetSettings" preserve="nothing" serialized="true" />
     <type fullname="Unity.Cinemachine.CinemachineDeoccluder/QualityEvaluation" preserve="nothing" serialized="true" />
     <type fullname="Unity.Cinemachine.CinemachineSplineDolly/DampingSettings" preserve="nothing" serialized="true" />
-    <type fullname="Unity.Cinemachine.CinemachineSplineDollyLookAtTargets/Item" preserve="nothing" serialized="true" />
     <type fullname="Unity.Cinemachine.LensSettings" preserve="nothing" serialized="true" />
     <type fullname="Unity.Cinemachine.LensSettings/PhysicalSettings" preserve="nothing" serialized="true" />
     <type fullname="Unity.Cinemachine.LookaheadSettings" preserve="nothing" serialized="true" />
@@ -106,7 +104,6 @@
     <type fullname="Unity.Cinemachine.ScreenComposerSettings/DeadZoneSettings" preserve="nothing" serialized="true" />
     <type fullname="Unity.Cinemachine.ScreenComposerSettings/HardLimitSettings" preserve="nothing" serialized="true" />
     <type fullname="Unity.Cinemachine.SplineAutoDolly" preserve="nothing" serialized="true" />
-    <type fullname="Unity.Cinemachine.SplineAutoDolly/FixedSpeed" preserve="nothing" serialized="true" />
     <type fullname="Unity.Cinemachine.SplineSettings" preserve="nothing" serialized="true" />
     <type fullname="Unity.Cinemachine.TargetTracking.TrackerSettings" preserve="nothing" serialized="true" />
   </assembly>
@@ -124,12 +121,10 @@
   <assembly fullname="Unity.Splines, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
     <type fullname="UnityEngine.Splines.SplineContainer" preserve="all" />
     <type fullname="UnityEngine.Splines.BezierKnot" preserve="nothing" serialized="true" />
-    <type fullname="UnityEngine.Splines.DataPoint`1" preserve="nothing" serialized="true" />
     <type fullname="UnityEngine.Splines.KnotLinkCollection" preserve="nothing" serialized="true" />
     <type fullname="UnityEngine.Splines.Spline" preserve="nothing" serialized="true" />
     <type fullname="UnityEngine.Splines.Spline/MetaData" preserve="nothing" serialized="true" />
     <type fullname="UnityEngine.Splines.SplineDataDictionary`1" preserve="nothing" serialized="true" />
-    <type fullname="UnityEngine.Splines.SplineData`1" preserve="nothing" serialized="true" />
   </assembly>
   <assembly fullname="Unity.TextMeshPro, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
     <type fullname="TMPro.TextMeshProUGUI" preserve="all" />
