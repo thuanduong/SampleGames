@@ -2,7 +2,6 @@
   <assembly fullname="Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
     <type fullname="AudioComponent" preserve="all" />
     <type fullname="CommentData" preserve="all" />
-    <type fullname="ExcelScrollRectComponent" preserve="all" />
     <type fullname="FormattedMoneyTextComponent" preserve="all" />
     <type fullname="FormattedTextComponent" preserve="all" />
     <type fullname="FPSDisplay" preserve="all" />
@@ -14,7 +13,6 @@
     <type fullname="IsVisibleComponent" preserve="all" />
     <type fullname="ProjectInitSettings" preserve="all" />
     <type fullname="RaceTracking" preserve="all" />
-    <type fullname="RandomVFXActivator" preserve="all" />
     <type fullname="RawImageComponent" preserve="all" />
     <type fullname="SkillDetail" preserve="all" />
     <type fullname="SkyboxAutoExplose" preserve="all" />
@@ -41,6 +39,7 @@
     <type fullname="UILoginComponent" preserve="all" />
     <type fullname="UILoginPanelAnimation" preserve="all" />
     <type fullname="UIMainMenu" preserve="all" />
+    <type fullname="UIOTPComponent" preserve="all" />
     <type fullname="UIPopupError" preserve="all" />
     <type fullname="UIPopupMessage" preserve="all" />
     <type fullname="UIPopupYesNoMessage" preserve="all" />
