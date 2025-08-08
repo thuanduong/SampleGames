@@ -39,6 +39,7 @@
     <type fullname="UILoginComponent" preserve="all" />
     <type fullname="UILoginPanelAnimation" preserve="all" />
     <type fullname="UIMainMenu" preserve="all" />
+    <type fullname="UIOTPComponent" preserve="all" />
     <type fullname="UIPopupError" preserve="all" />
     <type fullname="UIPopupMessage" preserve="all" />
     <type fullname="UIPopupYesNoMessage" preserve="all" />
