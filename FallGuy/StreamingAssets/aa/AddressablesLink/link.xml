@@ -38,7 +38,6 @@
     <type fullname="UIToggleComponent" preserve="all" />
     <type fullname=".AudioComponent/MusicTrack" preserve="nothing" serialized="true" />
     <type fullname=".AudioComponent/Sound" preserve="nothing" serialized="true" />
-    <type fullname="FallGuy.NetworkPlayerState" preserve="nothing" serialized="true" />
   </assembly>
   <assembly fullname="Assembly-CSharp-firstpass, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
     <type fullname="CFX_AutoDestructShuriken" preserve="all" />
@@ -47,7 +46,9 @@
     <type fullname="Fusion.NetworkObject" preserve="all" />
     <type fullname="Fusion.NetworkObjectPrefabData" preserve="all" />
     <type fullname="Fusion.NetworkRunner" preserve="all" />
+    <type fullname="Fusion.NetworkTransform" preserve="all" />
     <type fullname="Fusion.NetworkObjectGuid" preserve="nothing" serialized="true" />
+    <type fullname="Fusion.NetworkPrefabRef" preserve="nothing" serialized="true" />
   </assembly>
   <assembly fullname="Fusion.Unity, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
     <type fullname="Fusion.NetworkSceneManagerDefault" preserve="all" />
