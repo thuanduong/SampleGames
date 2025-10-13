@@ -1,17 +1,21 @@
 <linker>
   <assembly fullname="Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="AddFriend" preserve="all" />
     <type fullname="AINavMesh" preserve="all" />
     <type fullname="AudioComponent" preserve="all" />
     <type fullname="FallGuy.Team.MainPhotonPlayerComponent" preserve="all" />
     <type fullname="FallGuy.Team.PlayerService" preserve="all" />
     <type fullname="FallGuy.Team.PlayerSpawner" preserve="all" />
     <type fullname="FormattedTextComponent" preserve="all" />
+    <type fullname="FriendItemUI" preserve="all" />
+    <type fullname="FriendListUI" preserve="all" />
     <type fullname="IsVisibleComponent" preserve="all" />
     <type fullname="JoystickComponent" preserve="all" />
     <type fullname="LHS_OnRotatePlatform" preserve="all" />
     <type fullname="LHS_Particle" preserve="all" />
     <type fullname="MainPlayerComponent" preserve="all" />
     <type fullname="RandomAnimator" preserve="all" />
+    <type fullname="TouchDragComponent" preserve="all" />
     <type fullname="TouchFieldComponent" preserve="all" />
     <type fullname="UIBackground" preserve="all" />
     <type fullname="UIButtonComponent" preserve="all" />
@@ -52,6 +56,7 @@
     <type fullname="UIMatchingSolo" preserve="all" />
     <type fullname="UIOTPComponent" preserve="all" />
     <type fullname="UIPopupAvatar" preserve="all" />
+    <type fullname="UIPopupChangeCharacter" preserve="all" />
     <type fullname="UIPopupError" preserve="all" />
     <type fullname="UIPopupFriends" preserve="all" />
     <type fullname="UIPopupGiftBox" preserve="all" />
@@ -143,9 +148,12 @@
     <type fullname="UnityEngine.Shader" preserve="all" />
     <type fullname="UnityEngine.SkinnedMeshRenderer" preserve="all" />
     <type fullname="UnityEngine.Sprite" preserve="all" />
+    <type fullname="UnityEngine.SpriteRenderer" preserve="all" />
     <type fullname="UnityEngine.Texture2D" preserve="all" />
     <type fullname="UnityEngine.Transform" preserve="all" />
+    <type fullname="UnityEngine.Events.ArgumentCache" preserve="nothing" serialized="true" />
     <type fullname="UnityEngine.Events.PersistentCallGroup" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Events.PersistentListenerMode" preserve="nothing" serialized="true" />
     <type fullname="UnityEngine.Events.UnityEvent" preserve="nothing" serialized="true" />
     <type fullname="UnityEngine.RectOffset" preserve="nothing" serialized="true" />
   </assembly>
