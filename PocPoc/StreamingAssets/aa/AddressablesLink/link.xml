@@ -3,7 +3,7 @@
     <type fullname="AddFriend" preserve="all" />
     <type fullname="AINavMesh" preserve="all" />
     <type fullname="AudioComponent" preserve="all" />
-    <type fullname="FallGuy.Team.MainPhotonPlayerComponent" preserve="all" />
+    <type fullname="FallGuy.MainPhotonPlayerComponent" preserve="all" />
     <type fullname="FallGuy.Team.PlayerService" preserve="all" />
     <type fullname="FallGuy.Team.PlayerSpawner" preserve="all" />
     <type fullname="FormattedTextComponent" preserve="all" />
