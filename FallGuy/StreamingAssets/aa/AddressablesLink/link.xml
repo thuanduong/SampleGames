@@ -3,7 +3,8 @@
     <type fullname="AddFriend" preserve="all" />
     <type fullname="AINavMesh" preserve="all" />
     <type fullname="AudioComponent" preserve="all" />
-    <type fullname="FallGuy.Team.MainPhotonPlayerComponent" preserve="all" />
+    <type fullname="ChatController" preserve="all" />
+    <type fullname="FallGuy.MainPhotonPlayerComponent" preserve="all" />
     <type fullname="FallGuy.Team.PlayerService" preserve="all" />
     <type fullname="FallGuy.Team.PlayerSpawner" preserve="all" />
     <type fullname="FormattedTextComponent" preserve="all" />
@@ -15,6 +16,7 @@
     <type fullname="LHS_Particle" preserve="all" />
     <type fullname="MainPlayerComponent" preserve="all" />
     <type fullname="RandomAnimator" preserve="all" />
+    <type fullname="SettingManager" preserve="all" />
     <type fullname="TouchDragComponent" preserve="all" />
     <type fullname="TouchFieldComponent" preserve="all" />
     <type fullname="UIBackground" preserve="all" />
