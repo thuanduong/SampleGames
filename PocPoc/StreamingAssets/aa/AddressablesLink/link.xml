@@ -1,20 +1,30 @@
 <linker>
   <assembly fullname="Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="ActiveItemBar" preserve="all" />
     <type fullname="AddFriend" preserve="all" />
     <type fullname="AINavMesh" preserve="all" />
     <type fullname="AudioComponent" preserve="all" />
+    <type fullname="BananaPeelSkillData" preserve="all" />
+    <type fullname="CharacterCustomization" preserve="all" />
+    <type fullname="ChatController" preserve="all" />
+    <type fullname="ColorChangeComponent" preserve="all" />
+    <type fullname="CompeteManager" preserve="all" />
+    <type fullname="FallGuy.HomingMissileComponentShared" preserve="all" />
     <type fullname="FallGuy.MainPhotonPlayerComponent" preserve="all" />
     <type fullname="FallGuy.Team.PlayerService" preserve="all" />
     <type fullname="FallGuy.Team.PlayerSpawner" preserve="all" />
     <type fullname="FormattedTextComponent" preserve="all" />
     <type fullname="FriendItemUI" preserve="all" />
     <type fullname="FriendListUI" preserve="all" />
+    <type fullname="HomingMissileSkillData" preserve="all" />
     <type fullname="IsVisibleComponent" preserve="all" />
     <type fullname="JoystickComponent" preserve="all" />
     <type fullname="LHS_OnRotatePlatform" preserve="all" />
     <type fullname="LHS_Particle" preserve="all" />
     <type fullname="MainPlayerComponent" preserve="all" />
+    <type fullname="OutfitItemDisplay" preserve="all" />
     <type fullname="RandomAnimator" preserve="all" />
+    <type fullname="SettingManager" preserve="all" />
     <type fullname="TouchDragComponent" preserve="all" />
     <type fullname="TouchFieldComponent" preserve="all" />
     <type fullname="UIBackground" preserve="all" />
@@ -32,6 +42,7 @@
     <type fullname="UIForgotPasswordComponent" preserve="all" />
     <type fullname="UIForgotPasswordPanelAnimation" preserve="all" />
     <type fullname="UIGameCountDown" preserve="all" />
+    <type fullname="UIGameHUD" preserve="all" />
     <type fullname="UIGameInputMobile" preserve="all" />
     <type fullname="UIGiftBoxComponent" preserve="all" />
     <type fullname="UIHeader" preserve="all" />
@@ -42,6 +53,7 @@
     <type fullname="UIImageComponent" preserve="all" />
     <type fullname="UIInventory" preserve="all" />
     <type fullname="UIInviteFriends" preserve="all" />
+    <type fullname="UIListCompeteRoomItem" preserve="all" />
     <type fullname="UIListRoomCompete" preserve="all" />
     <type fullname="UILoading" preserve="all" />
     <type fullname="UILoadingFadingAnimation" preserve="all" />
@@ -74,8 +86,9 @@
     <type fullname="UIUserName" preserve="all" />
     <type fullname="UIViewPlayer" preserve="all" />
     <type fullname="UIViewResults" preserve="all" />
-    <type fullname=".AudioComponent/MusicTrack" preserve="nothing" serialized="true" />
-    <type fullname=".AudioComponent/Sound" preserve="nothing" serialized="true" />
+    <type fullname="AudioComponent/MusicTrack" preserve="nothing" serialized="true" />
+    <type fullname="AudioComponent/Sound" preserve="nothing" serialized="true" />
+    <type fullname="UnlockItemData" preserve="nothing" serialized="true" />
   </assembly>
   <assembly fullname="Assembly-CSharp-firstpass, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
     <type fullname="CFX_AutoDestructShuriken" preserve="all" />
@@ -85,6 +98,7 @@
     <type fullname="Fusion.NetworkObjectPrefabData" preserve="all" />
     <type fullname="Fusion.NetworkRunner" preserve="all" />
     <type fullname="Fusion.NetworkTransform" preserve="all" />
+    <type fullname="Fusion.NetworkId" preserve="nothing" serialized="true" />
     <type fullname="Fusion.NetworkObjectGuid" preserve="nothing" serialized="true" />
     <type fullname="Fusion.NetworkPrefabRef" preserve="nothing" serialized="true" />
   </assembly>
@@ -100,6 +114,7 @@
   <assembly fullname="Unity.Addressables, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null" preserve="all">
     <type fullname="UnityEngine.AddressableAssets.Addressables" preserve="all" />
     <type fullname="UnityEngine.AddressableAssets.AssetReference" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.AddressableAssets.AssetReferenceGameObject" preserve="nothing" serialized="true" />
   </assembly>
   <assembly fullname="Unity.ResourceManager, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null" preserve="all">
     <type fullname="UnityEngine.ResourceManagement.ResourceProviders.AssetBundleProvider" preserve="all" />
@@ -166,6 +181,7 @@
     <type fullname="UnityEngine.CharacterController" preserve="all" />
     <type fullname="UnityEngine.MeshCollider" preserve="all" />
     <type fullname="UnityEngine.Rigidbody" preserve="all" />
+    <type fullname="UnityEngine.SphereCollider" preserve="all" />
   </assembly>
   <assembly fullname="UnityEngine.TextRenderingModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
     <type fullname="UnityEngine.Font" preserve="all" />
