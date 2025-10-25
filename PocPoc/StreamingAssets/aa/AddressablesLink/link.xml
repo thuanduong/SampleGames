@@ -4,19 +4,16 @@
     <type fullname="AddFriend" preserve="all" />
     <type fullname="AINavMesh" preserve="all" />
     <type fullname="AudioComponent" preserve="all" />
-    <type fullname="BananaPeelSkillData" preserve="all" />
     <type fullname="CharacterCustomization" preserve="all" />
     <type fullname="ChatController" preserve="all" />
     <type fullname="ColorChangeComponent" preserve="all" />
     <type fullname="CompeteManager" preserve="all" />
-    <type fullname="FallGuy.HomingMissileComponentShared" preserve="all" />
     <type fullname="FallGuy.MainPhotonPlayerComponent" preserve="all" />
     <type fullname="FallGuy.Team.PlayerService" preserve="all" />
     <type fullname="FallGuy.Team.PlayerSpawner" preserve="all" />
     <type fullname="FormattedTextComponent" preserve="all" />
     <type fullname="FriendItemUI" preserve="all" />
     <type fullname="FriendListUI" preserve="all" />
-    <type fullname="HomingMissileSkillData" preserve="all" />
     <type fullname="IsVisibleComponent" preserve="all" />
     <type fullname="JoystickComponent" preserve="all" />
     <type fullname="LHS_OnRotatePlatform" preserve="all" />
@@ -98,7 +95,6 @@
     <type fullname="Fusion.NetworkObjectPrefabData" preserve="all" />
     <type fullname="Fusion.NetworkRunner" preserve="all" />
     <type fullname="Fusion.NetworkTransform" preserve="all" />
-    <type fullname="Fusion.NetworkId" preserve="nothing" serialized="true" />
     <type fullname="Fusion.NetworkObjectGuid" preserve="nothing" serialized="true" />
     <type fullname="Fusion.NetworkPrefabRef" preserve="nothing" serialized="true" />
   </assembly>
@@ -114,7 +110,6 @@
   <assembly fullname="Unity.Addressables, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null" preserve="all">
     <type fullname="UnityEngine.AddressableAssets.Addressables" preserve="all" />
     <type fullname="UnityEngine.AddressableAssets.AssetReference" preserve="nothing" serialized="true" />
-    <type fullname="UnityEngine.AddressableAssets.AssetReferenceGameObject" preserve="nothing" serialized="true" />
   </assembly>
   <assembly fullname="Unity.ResourceManager, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null" preserve="all">
     <type fullname="UnityEngine.ResourceManagement.ResourceProviders.AssetBundleProvider" preserve="all" />
@@ -181,7 +176,6 @@
     <type fullname="UnityEngine.CharacterController" preserve="all" />
     <type fullname="UnityEngine.MeshCollider" preserve="all" />
     <type fullname="UnityEngine.Rigidbody" preserve="all" />
-    <type fullname="UnityEngine.SphereCollider" preserve="all" />
   </assembly>
   <assembly fullname="UnityEngine.TextRenderingModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
     <type fullname="UnityEngine.Font" preserve="all" />
