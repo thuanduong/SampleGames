@@ -4,26 +4,45 @@
     <type fullname="AddFriend" preserve="all" />
     <type fullname="AINavMesh" preserve="all" />
     <type fullname="AudioComponent" preserve="all" />
+    <type fullname="AutoSwipeMenu" preserve="all" />
+    <type fullname="ChannelArenaSelectorChat" preserve="all" />
+    <type fullname="ChannelSelectorChat" preserve="all" />
     <type fullname="CharacterCustomization" preserve="all" />
+    <type fullname="ChatArenaController" preserve="all" />
     <type fullname="ChatController" preserve="all" />
     <type fullname="ColorChangeComponent" preserve="all" />
     <type fullname="CompeteManager" preserve="all" />
+    <type fullname="DailyRewardUI" preserve="all" />
+    <type fullname="DateInputFormatter" preserve="all" />
+    <type fullname="DateValidator" preserve="all" />
+    <type fullname="DelegateEmployee" preserve="all" />
+    <type fullname="DelegateFriendListUI" preserve="all" />
+    <type fullname="DelegationSetupUI" preserve="all" />
+    <type fullname="EmojiUIController" preserve="all" />
     <type fullname="FallGuy.MainPhotonPlayerComponent" preserve="all" />
+    <type fullname="FallGuy.MainPlayerComponent" preserve="all" />
     <type fullname="FallGuy.Team.PlayerService" preserve="all" />
     <type fullname="FallGuy.Team.PlayerSpawner" preserve="all" />
     <type fullname="FormattedTextComponent" preserve="all" />
     <type fullname="FriendItemUI" preserve="all" />
     <type fullname="FriendListUI" preserve="all" />
+    <type fullname="GiftInputIDFen" preserve="all" />
     <type fullname="IsVisibleComponent" preserve="all" />
     <type fullname="JoystickComponent" preserve="all" />
+    <type fullname="LeaderboardPlayer" preserve="all" />
+    <type fullname="LeaderboardRowUI" preserve="all" />
+    <type fullname="LeaderboardUI" preserve="all" />
     <type fullname="LHS_OnRotatePlatform" preserve="all" />
     <type fullname="LHS_Particle" preserve="all" />
-    <type fullname="MainPlayerComponent" preserve="all" />
     <type fullname="OutfitItemDisplay" preserve="all" />
+    <type fullname="Photon.Chat.DemoChat.Utilities.TextToggleIsOnTransition" preserve="all" />
     <type fullname="RandomAnimator" preserve="all" />
     <type fullname="SettingManager" preserve="all" />
+    <type fullname="SlideInOutUI" preserve="all" />
     <type fullname="TouchDragComponent" preserve="all" />
     <type fullname="TouchFieldComponent" preserve="all" />
+    <type fullname="TournamentTicketData" preserve="all" />
+    <type fullname="UIAirdropRanking" preserve="all" />
     <type fullname="UIBackground" preserve="all" />
     <type fullname="UIButtonComponent" preserve="all" />
     <type fullname="UIBuyTicketCompete" preserve="all" />
@@ -33,7 +52,11 @@
     <type fullname="UIComponentCountDownTimer" preserve="all" />
     <type fullname="UIConfirmGiftComponent" preserve="all" />
     <type fullname="UIConversion" preserve="all" />
+    <type fullname="UIConversionComponent" preserve="all" />
     <type fullname="UIDailyReward" preserve="all" />
+    <type fullname="UIDelegation" preserve="all" />
+    <type fullname="UIDelegationEmployee" preserve="all" />
+    <type fullname="UIDiamondExchangeComponent" preserve="all" />
     <type fullname="UIDownload" preserve="all" />
     <type fullname="UIEndGame" preserve="all" />
     <type fullname="UIEndGameAnimation" preserve="all" />
@@ -48,9 +71,14 @@
     <type fullname="UIHeaderAvatar" preserve="all" />
     <type fullname="UIHeaderMode" preserve="all" />
     <type fullname="UIHome" preserve="all" />
+    <type fullname="UIHoverToggle" preserve="all" />
     <type fullname="UIImageComponent" preserve="all" />
     <type fullname="UIInventory" preserve="all" />
+    <type fullname="UIInviteFriendPlay" preserve="all" />
+    <type fullname="UIInviteFriendPlayItem" preserve="all" />
+    <type fullname="UIInviteFriendPlayListItem" preserve="all" />
     <type fullname="UIInviteFriends" preserve="all" />
+    <type fullname="UILeaderboardAirdrop" preserve="all" />
     <type fullname="UIListCompeteRoomItem" preserve="all" />
     <type fullname="UIListRoomCompete" preserve="all" />
     <type fullname="UILoading" preserve="all" />
@@ -64,15 +92,29 @@
     <type fullname="UIMainMenuMode" preserve="all" />
     <type fullname="UIMainMenuSubViewPanel" preserve="all" />
     <type fullname="UIMatchingSolo" preserve="all" />
+    <type fullname="UIMatchingTournament" preserve="all" />
+    <type fullname="UIMatchingWarena" preserve="all" />
     <type fullname="UIOTPComponent" preserve="all" />
+    <type fullname="UIPlayerRanking" preserve="all" />
+    <type fullname="UIPopUpAnimation" preserve="all" />
     <type fullname="UIPopupAvatar" preserve="all" />
     <type fullname="UIPopupChangeCharacter" preserve="all" />
+    <type fullname="UIPopupChargeFee" preserve="all" />
+    <type fullname="UIPopupDelegateMode" preserve="all" />
     <type fullname="UIPopupError" preserve="all" />
     <type fullname="UIPopupFriends" preserve="all" />
     <type fullname="UIPopupGiftBox" preserve="all" />
+    <type fullname="UIPopupGiftRes" preserve="all" />
+    <type fullname="UIPopupInvitePlay" preserve="all" />
     <type fullname="UIPopupLeaderBoard" preserve="all" />
+    <type fullname="UIPopupLeaderBoardAirDrop" preserve="all" />
     <type fullname="UIPopupMessage" preserve="all" />
+    <type fullname="UIPopupMultiLogin" preserve="all" />
+    <type fullname="UIPopupMultiLoginButton" preserve="all" />
+    <type fullname="UIPopupMultiLoginListButton" preserve="all" />
     <type fullname="UIPopupPoolMode" preserve="all" />
+    <type fullname="UIPopupRandomMapRun" preserve="all" />
+    <type fullname="UIPopupRandomMapSurvival" preserve="all" />
     <type fullname="UIPopupTimeOut" preserve="all" />
     <type fullname="UIPopupYesNoMessage" preserve="all" />
     <type fullname="UIRankComponent" preserve="all" />
@@ -80,15 +122,36 @@
     <type fullname="UIReferralPanel" preserve="all" />
     <type fullname="UIRegisterComponent" preserve="all" />
     <type fullname="UIRegisterPoolComponent" preserve="all" />
+    <type fullname="UIRewardMultiply" preserve="all" />
+    <type fullname="UIRewardToggle" preserve="all" />
     <type fullname="UISettings" preserve="all" />
+    <type fullname="UISettingsGameplay" preserve="all" />
     <type fullname="UIShop" preserve="all" />
     <type fullname="UIStatusPoolComponent" preserve="all" />
+    <type fullname="UITeamNumber" preserve="all" />
+    <type fullname="UITextMarquee" preserve="all" />
+    <type fullname="UITimer" preserve="all" />
     <type fullname="UIToggleComponent" preserve="all" />
+    <type fullname="UITop5Rank" preserve="all" />
+    <type fullname="UITournament" preserve="all" />
+    <type fullname="UITournamentBracket" preserve="all" />
+    <type fullname="UITournamentBracketArrow" preserve="all" />
+    <type fullname="UITournamentBracketPair" preserve="all" />
+    <type fullname="UITournamentBracketSlotItem" preserve="all" />
+    <type fullname="UITournamentChampion" preserve="all" />
+    <type fullname="UITournamentDefeat" preserve="all" />
+    <type fullname="UITournamentItem" preserve="all" />
+    <type fullname="UITournamentListItem" preserve="all" />
+    <type fullname="UITournamentMove" preserve="all" />
+    <type fullname="UITournamentVictory" preserve="all" />
     <type fullname="UIUserName" preserve="all" />
     <type fullname="UIViewPlayer" preserve="all" />
     <type fullname="UIViewResults" preserve="all" />
     <type fullname="AudioComponent/MusicTrack" preserve="nothing" serialized="true" />
     <type fullname="AudioComponent/Sound" preserve="nothing" serialized="true" />
+    <type fullname="RewardDayUI" preserve="nothing" serialized="true" />
+    <type fullname="TopDayUI" preserve="nothing" serialized="true" />
+    <type fullname="TournamentTicketDataItem" preserve="nothing" serialized="true" />
     <type fullname="UnlockItemData" preserve="nothing" serialized="true" />
   </assembly>
   <assembly fullname="Assembly-CSharp-firstpass, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
@@ -100,7 +163,6 @@
     <type fullname="Fusion.NetworkRunner" preserve="all" />
     <type fullname="Fusion.NetworkTransform" preserve="all" />
     <type fullname="Fusion.NetworkObjectGuid" preserve="nothing" serialized="true" />
-    <type fullname="Fusion.NetworkPrefabRef" preserve="nothing" serialized="true" />
   </assembly>
   <assembly fullname="Fusion.Unity, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
     <type fullname="Fusion.NetworkSceneManagerDefault" preserve="all" />
@@ -113,7 +175,6 @@
   </assembly>
   <assembly fullname="Unity.Addressables, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null" preserve="all">
     <type fullname="UnityEngine.AddressableAssets.Addressables" preserve="all" />
-    <type fullname="UnityEngine.AddressableAssets.AssetReference" preserve="nothing" serialized="true" />
   </assembly>
   <assembly fullname="Unity.ResourceManager, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null" preserve="all">
     <type fullname="UnityEngine.ResourceManagement.ResourceProviders.AssetBundleProvider" preserve="all" />
@@ -185,6 +246,7 @@
     <type fullname="UnityEngine.Font" preserve="all" />
   </assembly>
   <assembly fullname="UnityEngine.UI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.UI.AspectRatioFitter" preserve="all" />
     <type fullname="UnityEngine.UI.Button" preserve="all" />
     <type fullname="UnityEngine.UI.ContentSizeFitter" preserve="all" />
     <type fullname="UnityEngine.UI.GridLayoutGroup" preserve="all" />
